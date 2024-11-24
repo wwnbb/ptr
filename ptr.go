@@ -1,3 +1,3 @@
 package ptr
 
-func ptr[T any](value T) (pointer *T) { return &value }
+func Ptr[T any](value T) (pointer *T) { return &value }
