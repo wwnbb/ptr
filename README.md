@@ -1,3 +1,6 @@
+# DEPRICATED
+No need for this package any more, use new
+
 Well, i know that its weird to create packages for a single line function.
 
 But its way weirder to have a single line function in every project you have.
